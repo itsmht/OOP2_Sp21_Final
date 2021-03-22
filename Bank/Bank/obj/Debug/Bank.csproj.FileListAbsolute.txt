@@ -1,1 +1,6 @@
 E:\CS Dept\C#\Bank\Bank\bin\Debug\Bank.exe.config
+E:\CS Dept\C#\Bank\Bank\bin\Debug\Bank.exe
+E:\CS Dept\C#\Bank\Bank\bin\Debug\Bank.pdb
+E:\CS Dept\C#\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\CS Dept\C#\Bank\Bank\obj\Debug\Bank.exe
+E:\CS Dept\C#\Bank\Bank\obj\Debug\Bank.pdb

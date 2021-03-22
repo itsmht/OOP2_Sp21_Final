@@ -10,6 +10,11 @@ namespace Bank
     {
         static void Main(string[] args)
         {
+            var a = new Account("Putin", "1234", 12000);
+            var b = new Account("Trump", "4321", 4000);
+            a.Transfer(1000, b);
+            a.showAllTransactions();
+            b.showAllTransactions();
         }
     }
 }
